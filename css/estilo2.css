@@ -1,0 +1,82 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+</style>
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+body{  font-family: 'Roboto', sans-serif;
+background-color: black;}
+
+form{ background-color: #black;
+width: 300px; 
+padding: 10px;
+margin: 10px;
+border-style: solid;
+border-color: black;
+border-width: 3px;
+color: white;
+float: center;
+float: left;}
+
+
+.largo{
+	width: 100%;
+	font-family: ;font-family: 'Roboto', sans-serif;
+}
+
+.texto{
+	font-size: 16px;
+	font-family: 'Staatliches', cursive;
+}
+
+.btn{ width: 100%;
+background-color: #c0392b;
+color: black; 
+font-family: 'Staatliches', cursive;
+margin: 3px;
+font-size: 20px;}
+
+main{
+	width: 940px;
+	height: 600px;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+header{ width: 940px;
+height: 68px; 
+background-color: black;
+}
+
+img{float: left;
+margin-left: 30px;
+margin-top: 7px;}
+
+.logospidi{height: 55px;}
+
+a{text-decoration: none;
+    box-shadow: none;
+   font-family: 'Staatliches', cursive;
+   color: white;
+   font-size: 18px;
+    } 
+    li{
+    display:inline-block;
+    width:15%;
+    padding: 25px 0px;
+    text-align:center;
+    color:white;
+    float: right;
+    }
+   li:hover{
+    background-color:none;
+    }
+
